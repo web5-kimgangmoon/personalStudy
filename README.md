@@ -4,7 +4,12 @@
 
 js 위주로 작성합니다. 그래서 요약서에선 js 외의 내용을 다수 삭제했습니다.
 
-출처: https://chatgpt.com/
+- 출처:
+
+  1. https://chatgpt.com/
+  2. https://inpa.tistory.com/entry/🔄-자바스크립트-이벤트-루프-구조-동작-원리#thankYou
+  3. https://www.researchgate.net/figure/DNS-architecture-DNS-Domain-Name-System-gTLD-general-Top-Level-Domain_fig2_345017736
+  4. https://www.bmc.com/blogs/osi-model-7-layers/
 
 ### 면접을 위한 개인공부용
 
